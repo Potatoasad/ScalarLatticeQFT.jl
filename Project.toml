@@ -1,0 +1,14 @@
+name = "ScalarLatticeQFT"
+uuid = "52ac4371-c77a-4116-9f41-d6a8be8c702f"
+authors = ["Asad Hussain"]
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "1"
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
